@@ -1,0 +1,16 @@
+body {
+  background: #efd9d9;
+}
+p {
+  color: black;
+  font-family: monospace
+}
+h1 {
+  font-weight: bold;
+  font-family: monospace
+}
+
+h2 {
+  font-weight: bolder;
+  font-family: monospace
+}
